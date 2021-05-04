@@ -1,12 +1,12 @@
 # Hi there, I'm Kushan Eranga <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**kushaneranga/kushaneranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am an undergraduate of Moratuwa University of Sri Lanka & following BBSc  Business Science in department of Industrial Management, Faculty of Business. 
+Studied A/L in commerce stream.
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning new technologies.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
