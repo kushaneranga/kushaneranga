@@ -36,4 +36,4 @@ Studied A/L in commerce stream.
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushaneranga&show_icons=true&theme=tokyonight)
+[![Kushan's Github Stats](https://github-readme-stats.vercel.app/api?username=kushaneranga&count_private=true&theme=default&show_icons=true)](https://github.com/kushaneranga)
