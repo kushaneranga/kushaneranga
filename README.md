@@ -4,7 +4,7 @@ I am an undergraduate of Moratuwa University of Sri Lanka & following BBSc  Busi
 Studied A/L in commerce stream.
 <hr>
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning new technologies.
