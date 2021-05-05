@@ -26,7 +26,7 @@ Studied A/L in commerce stream.
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093849-c4415580-ad7f-11eb-8eec-e7d245eb9279.png" alt="Jupyter" height="26"></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093850-c4d9ec00-ad7f-11eb-9c7b-69d75855fe45.png" alt="Python" height="26"></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093842-c1defb80-ad7f-11eb-87a5-de8b9ee3a876.png" alt="HTML5" height="26"></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093844-c2779200-ad7f-11eb-9232-48268e8f0eba.png" alt="css3" height="26"></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093837-c0153800-ad7f-11eb-8edf-3da0e33b9c6f.png" alt="css3" height="26"></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093845-c3102880-ad7f-11eb-8c6f-5b46887a2d74.png" alt="Javascript" height="26"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093841-c1466500-ad7f-11eb-9a04-b3322aa4cd0a.png" alt="git" height="26"></a>
 <a href="https://github.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093844-c2779200-ad7f-11eb-9232-48268e8f0eba.png" alt="github" height="26"></a>
