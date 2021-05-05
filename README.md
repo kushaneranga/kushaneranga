@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://user-images.githubusercontent.com/61194721/117134971-f5437980-adc3-11eb-87d6-95dafe0bc256.gif" width="30px">
 ```
 I am an undergraduate of Moratuwa University of Sri Lanka & following BBSc  Business Science in department of Industrial Management, Faculty of Business. 
 Studied A/L in commerce stream.
