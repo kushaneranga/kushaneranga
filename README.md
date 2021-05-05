@@ -22,8 +22,8 @@ Studied A/L in commerce stream.
 ## Tools and Languages.
 <div>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117094077-65301080-ad80-11eb-8e03-20bc699513a3.png" alt="VS Code" height="26"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093848-c3a8bf00-ad7f-11eb-885b-cee0237bb2ef.png" alt="Pycharme" height="26"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093849-c4415580-ad7f-11eb-8eec-e7d245eb9279.png" alt="Jupyter" height="26"></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093848-c3a8bf00-ad7f-11eb-885b-cee0237bb2ef.png" alt="Pycharme" height="26"></a>
+<a href="https://jupyter.org/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093849-c4415580-ad7f-11eb-8eec-e7d245eb9279.png" alt="Jupyter" height="26"></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093850-c4d9ec00-ad7f-11eb-9c7b-69d75855fe45.png" alt="Python" height="26"></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093842-c1defb80-ad7f-11eb-87a5-de8b9ee3a876.png" alt="HTML5" height="26"></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117093837-c0153800-ad7f-11eb-8edf-3da0e33b9c6f.png" alt="css3" height="26"></a>
