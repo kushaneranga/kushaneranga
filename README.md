@@ -1,9 +1,10 @@
 # Hi there <img src="https://user-images.githubusercontent.com/61194721/117134971-f5437980-adc3-11eb-87d6-95dafe0bc256.gif" width="30px">
+<!--
 ```
 I am an undergraduate of Moratuwa University of Sri Lanka & following BBSc  Business Science in department of Industrial Management, Faculty of Business. 
 Studied A/L in commerce stream.
 ```
-<hr>
+-->
 
 ### Here are some ideas to get you started:
 
@@ -19,6 +20,7 @@ Studied A/L in commerce stream.
 -->
 <hr>
 
+<!--
 ## Tools and Languages.
 <div>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/61194721/117094077-65301080-ad80-11eb-8e03-20bc699513a3.png" alt="VS Code" height="26"></a>
@@ -33,6 +35,7 @@ Studied A/L in commerce stream.
 </div>
 <br>
 <hr>
+-->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kushaneranga.kushaneranga)
 [![Github](https://img.shields.io/github/followers/kushaneranga?label=Follow&style=social)](https://github.com/kushaneranga)
