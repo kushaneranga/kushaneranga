@@ -43,7 +43,6 @@ Studied A/L in commerce stream.
 ### Open Source Projects
 
 [![password-validation-dis](https://github-readme-stats.vercel.app/api/pin/?username=kushaneranga&repo=password-validation-dis)](https://github.com/kushaneranga/password-validation-dis)
-
 [![vue-read-more-esy](https://github-readme-stats.vercel.app/api/pin/?username=kushaneranga&repo=vue-read-more-esy)](https://github.com/kushaneranga/vue-read-more-esy)
 
 ### Github Stats
